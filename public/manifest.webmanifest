@@ -1,0 +1,16 @@
+{
+  "name": "ConsentTrellis",
+  "short_name": "ConsentTrellis",
+  "description": "AI policy management software that helps adult wellness organizations manage approved policies, review schedules and employee training documentation.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1512",
+  "theme_color": "#0a1512",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
