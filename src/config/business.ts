@@ -3,8 +3,8 @@ import type { Business } from './types'
 export const business: Business = {
   slug: 'consenttrellis',
   name: 'ConsentTrellis',
-  domain: 'consenttrellis.top',
-  email: 'gideon@consenttrellis.top',
+  domain: 'consenttrellis.site',
+  email: 'gideon@consenttrellis.site',
   tagline: 'Organize adult wellness compliance workflows.',
   industries: ['SexTech', 'RegTech', 'Enterprise Software'],
   description:

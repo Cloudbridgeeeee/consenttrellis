@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for ConsentTrellis.
 - Industry: SexTech, RegTech, Enterprise Software
 - Founder: Gideon Chukwuma (Founder & CEO)
 - Co-founder: Temilade Akinwale (Co-founder & CTO)
-- Contact: gideon@consenttrellis.top
+- Contact: gideon@consenttrellis.site
 - Business model: Organization-level subscriptions
 
 ## Stack
